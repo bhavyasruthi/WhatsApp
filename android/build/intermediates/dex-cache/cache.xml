@@ -1,0 +1,284 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/venkatasandeepgengineri/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp-urlconnection/3.6.0/3f9b16b774f2c36cfd86dd2053d0b3059531dacc/okhttp-urlconnection-3.6.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="3f9b16b774f2c36cfd86dd2053d0b3059531dacc">
+        <dex dex="/Users/venkatasandeepgengineri/Hasura/WhatsAp/android/app/build/intermediates/pre-dexed/debug/okhttp-urlconnection-3.6.0_da5041b5a123262047a6ff13ca1ea0b5395fa7b3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/venkatasandeepgengineri/Hasura/WhatsAp/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="d86429b0f0b3f3cafbeb78dda1b9d89119ccb05d">
+        <dex dex="/Users/venkatasandeepgengineri/Hasura/WhatsAp/android/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-23.0.1_9a661865dacb1831aa92b928530d920858f5533f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/venkatasandeepgengineri/Hasura/WhatsAp/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="c31e21b53ff2f74664e498248d01453a32e32d48">
+        <dex dex="/Users/venkatasandeepgengineri/Hasura/WhatsAp/android/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-23.0.1_e144101ce2cf7ce869541cd4216f65820322ce3b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/venkatasandeepgengineri/Hasura/WhatsAp/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tasks/11.0.4/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="2430e711762a749feb00b3d64858ca4768251b9d">
+        <dex dex="/Users/venkatasandeepgengineri/Hasura/WhatsAp/android/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-tasks-11.0.4_76aca55cdb7e3ac6164b3f122109db21147ed43b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/venkatasandeepgengineri/Hasura/WhatsAp/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/11.0.4/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="70ffe00aaf049893f59d1dad57bd82992faa38ef">
+        <dex dex="/Users/venkatasandeepgengineri/Hasura/WhatsAp/android/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-base-11.0.4_79b539942e191b6e1cead4f42fa7079b74da6a3a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/venkatasandeepgengineri/Hasura/WhatsAp/android/app/build/intermediates/exploded-aar/com.facebook.fresco/drawee/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="c65a2e39d54023bac3aef64a2f0cff89289c7ff6">
+        <dex dex="/Users/venkatasandeepgengineri/Hasura/WhatsAp/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-drawee-1.3.0_96157940fedca74d60c8ea03ba7a60c0ada036a0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/venkatasandeepgengineri/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.13.0/a9283170b7305c8d92d25aff02a6ab7e45d06cbe/okio-1.13.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="a9283170b7305c8d92d25aff02a6ab7e45d06cbe">
+        <dex dex="/Users/venkatasandeepgengineri/Hasura/WhatsAp/android/app/build/intermediates/pre-dexed/debug/okio-1.13.0_4ccb9e172f99d25938776e49cb84b3e745f1b672.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/venkatasandeepgengineri/.gradle/caches/modules-2/files-2.1/javax.inject/javax.inject/1/6975da39a7040257bd51d21a231b76c915872d38/javax.inject-1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="6975da39a7040257bd51d21a231b76c915872d38">
+        <dex dex="/Users/venkatasandeepgengineri/Hasura/WhatsAp/android/app/build/intermediates/pre-dexed/debug/javax.inject-1_1727f61f0f9ce4c6e4e9ed99906081a651dbfeb5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/venkatasandeepgengineri/Hasura/WhatsAp/android/app/build/intermediates/exploded-aar/com.facebook.soloader/soloader/0.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="8f615bca00639150c9eb6175d4b5471193f70794">
+        <dex dex="/Users/venkatasandeepgengineri/Hasura/WhatsAp/android/app/build/intermediates/pre-dexed/debug/com.facebook.soloader-soloader-0.1.0_9461cacc20f0904c24bf74e070e5f1d8f9d3d04c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/venkatasandeepgengineri/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.0.1/support-annotations-23.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="1fce89a6428c51467090d7f424e4c9c3dbd55f7e">
+        <dex dex="/Users/venkatasandeepgengineri/Hasura/WhatsAp/android/app/build/intermediates/pre-dexed/debug/support-annotations-23.0.1_7e46879bdf05c761a3b8e80055d5006ffefcd5ab.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/venkatasandeepgengineri/Hasura/WhatsAp/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-vision-common/11.0.4/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="6b3430725095bd46b785e97bd34240826c27b4db">
+        <dex dex="/Users/venkatasandeepgengineri/Hasura/WhatsAp/android/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-vision-common-11.0.4_00ff8e82e29599548f167a4098ae17810cf4ece5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/venkatasandeepgengineri/Hasura/WhatsAp/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fbcore/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="37345de2ed2772f385eaeec37a9c2ff0fea99ad7">
+        <dex dex="/Users/venkatasandeepgengineri/Hasura/WhatsAp/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-fbcore-1.3.0_6dd33499e3775dcd9f9fcb661da16f0b56bae64b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/venkatasandeepgengineri/.gradle/caches/modules-2/files-2.1/com.google.code.findbugs/jsr305/3.0.0/5871fb60dc68d67da54a663c3fd636a10a532948/jsr305-3.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="5871fb60dc68d67da54a663c3fd636a10a532948">
+        <dex dex="/Users/venkatasandeepgengineri/Hasura/WhatsAp/android/app/build/intermediates/pre-dexed/debug/jsr305-3.0.0_f78f133c23998cd617f1ddebc6bd80c36e3901a7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/venkatasandeepgengineri/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-tasks/1.4.0/d85884acf6810a3bbbecb587f239005cbc846dc4/bolts-tasks-1.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
+        <dex dex="/Users/venkatasandeepgengineri/Hasura/WhatsAp/android/app/build/intermediates/pre-dexed/debug/bolts-tasks-1.4.0_02df5211bc0619baf26608b7cd37ebfc31d3a43b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/venkatasandeepgengineri/Hasura/WhatsAp/android/app/build/intermediates/exploded-aar/com.github.react-native-community/cameraview/df60b07573/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="6011f35f886d86ba2e3c5f42309032ba0df77151">
+        <dex dex="/Users/venkatasandeepgengineri/Hasura/WhatsAp/android/app/build/intermediates/pre-dexed/debug/com.github.react-native-community-cameraview-df60b07573_674684919d246b3c67c82ebb3171fa9252b559d9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/venkatasandeepgengineri/.gradle/caches/modules-2/files-2.1/com.facebook.fbui.textlayoutbuilder/staticlayout-proxy/1.0/f162442a19fff13995fbd51ba414d9ee05579080/staticlayout-proxy-1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="f162442a19fff13995fbd51ba414d9ee05579080">
+        <dex dex="/Users/venkatasandeepgengineri/Hasura/WhatsAp/android/app/build/intermediates/pre-dexed/debug/staticlayout-proxy-1.0_a7618bd988615b31b4122c32eba9541616f31746.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/venkatasandeepgengineri/Hasura/WhatsAp/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.51.0/jars/libs/infer-annotations-4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="9809e90be788acdb479b2b44e2112f3295a03068">
+        <dex dex="/Users/venkatasandeepgengineri/Hasura/WhatsAp/android/app/build/intermediates/pre-dexed/debug/infer-annotations-4.0_2086df580a81b0a35abf8be1e2e94060b93c1f65.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/venkatasandeepgengineri/Hasura/WhatsAp/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="48c7f54c2515a2312d3a4481d10c43fbb807f3af">
+        <dex dex="/Users/venkatasandeepgengineri/Hasura/WhatsAp/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-1.3.0_c86220f8ae29eaa995cc4271e71272760a5912c6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/venkatasandeepgengineri/.gradle/caches/modules-2/files-2.1/com.google.zxing/core/3.2.1/2287494d4f5f9f3a9a2bb6980e3f32053721b315/core-3.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="2287494d4f5f9f3a9a2bb6980e3f32053721b315">
+        <dex dex="/Users/venkatasandeepgengineri/Hasura/WhatsAp/android/app/build/intermediates/pre-dexed/debug/core-3.2.1_a22f0149f77eec7036f151bc766f0b6e418e5a55.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/venkatasandeepgengineri/Hasura/WhatsAp/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-vision/11.0.4/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="63b03eaa1aa9b9431c7638841175f9842dcbf274">
+        <dex dex="/Users/venkatasandeepgengineri/Hasura/WhatsAp/android/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-vision-11.0.4_3ce0f0b6e78e88012fa2d6bce21c68df12f89135.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/venkatasandeepgengineri/Hasura/WhatsAp/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/11.0.4/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="364364bf77b4a71afc5930fc3ae57b3f0eea637c">
+        <dex dex="/Users/venkatasandeepgengineri/Hasura/WhatsAp/android/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-basement-11.0.4_76d119e96f0be526de62a123ee8b2f3ce0380866.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/venkatasandeepgengineri/Hasura/WhatsAp/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fresco/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="fe85b87215e405f5917d40ae4960488ac9224b74">
+        <dex dex="/Users/venkatasandeepgengineri/Hasura/WhatsAp/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-fresco-1.3.0_f5d6956d4300c0fabf37cfd3217bc64e04bff52d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/venkatasandeepgengineri/Hasura/WhatsAp/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/jars/libs/internal_impl-23.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="aa92916125166649d8ad4ba3940c3dd7515596d3">
+        <dex dex="/Users/venkatasandeepgengineri/Hasura/WhatsAp/android/app/build/intermediates/pre-dexed/debug/internal_impl-23.0.1_bcf908a702de41c8e775bb3b3c975b39f7e5a720.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/venkatasandeepgengineri/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.6.0/69edde9fc4b01c9fd51d25b83428837478c27254/okhttp-3.6.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="69edde9fc4b01c9fd51d25b83428837478c27254">
+        <dex dex="/Users/venkatasandeepgengineri/Hasura/WhatsAp/android/app/build/intermediates/pre-dexed/debug/okhttp-3.6.0_392b93e36beb7cd97eaba17acb13f7082e40f381.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/venkatasandeepgengineri/.gradle/caches/modules-2/files-2.1/com.adobe.xmp/xmpcore/5.1.2/55615fa2582424e38705487d1d3969af8554f637/xmpcore-5.1.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="55615fa2582424e38705487d1d3969af8554f637">
+        <dex dex="/Users/venkatasandeepgengineri/Hasura/WhatsAp/android/app/build/intermediates/pre-dexed/debug/xmpcore-5.1.2_0aee71243a13bd0869edb1f12f9b768adda3e700.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/venkatasandeepgengineri/.gradle/caches/modules-2/files-2.1/com.drewnoakes/metadata-extractor/2.9.1/53fdf22be10c9d426ec63431c7342895bc642261/metadata-extractor-2.9.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="53fdf22be10c9d426ec63431c7342895bc642261">
+        <dex dex="/Users/venkatasandeepgengineri/Hasura/WhatsAp/android/app/build/intermediates/pre-dexed/debug/metadata-extractor-2.9.1_9636f8255f1d024e32d0eb4a6338428a89e9a777.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/venkatasandeepgengineri/Hasura/WhatsAp/android/app/build/intermediates/exploded-aar/com.facebook.fbui.textlayoutbuilder/textlayoutbuilder/1.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="f90b593491e4044903f0bbf68dc3fa2790b151b9">
+        <dex dex="/Users/venkatasandeepgengineri/Hasura/WhatsAp/android/app/build/intermediates/pre-dexed/debug/com.facebook.fbui.textlayoutbuilder-textlayoutbuilder-1.0.0_20eec61a8a39abdcf1e6936da932b97696781b88.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/venkatasandeepgengineri/Hasura/WhatsAp/android/app/build/intermediates/exploded-aar/WhatsAp/react-native-camera/unspecified/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="ce61aa766b7b4c0b756092087b17d1b5ab58d492">
+        <dex dex="/Users/venkatasandeepgengineri/Hasura/WhatsAp/android/app/build/intermediates/pre-dexed/debug/WhatsAp-react-native-camera-unspecified_e284c1044f619cc3764e55dbc0e0e776401bfd82.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/venkatasandeepgengineri/Hasura/WhatsAp/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.51.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="99941aaaf86dc5e525cd9208c2f7c9a624f4f004">
+        <dex dex="/Users/venkatasandeepgengineri/Hasura/WhatsAp/android/app/build/intermediates/pre-dexed/debug/com.facebook.react-react-native-0.51.0_5b73d230abe01fed530f69615ce9316cc4ae7411.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/venkatasandeepgengineri/Hasura/WhatsAp/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-base/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="72128af126ddd7d6252da9357fe560d3abcdfb0c">
+        <dex dex="/Users/venkatasandeepgengineri/Hasura/WhatsAp/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-base-1.3.0_199666f1d14b1bb50ee77eb9b865853bea62b9ca.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/venkatasandeepgengineri/Hasura/WhatsAp/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-okhttp3/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="c03c08c9934b23c8c09c803345ec51a74119127b">
+        <dex dex="/Users/venkatasandeepgengineri/Hasura/WhatsAp/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-okhttp3-1.3.0_130e9425787d4298247cb7395b027843f9629060.jar" />
+    </item>
+
+</items>
