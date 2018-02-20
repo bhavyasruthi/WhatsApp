@@ -5,3 +5,4 @@ WhatsApp clone is created using React Native framework. It connects to the Postg
 Status page:
 
 [![status_Tab.png](https://s9.postimg.org/4todjjk1b/status_Tab.png)](https://postimg.org/image/l4ohfuwiz/)
+[![calls_Tab.png](https://s9.postimg.org/5vyk262vj/calls_Tab.png)](https://postimg.org/image/9fkhrz5l7/)
