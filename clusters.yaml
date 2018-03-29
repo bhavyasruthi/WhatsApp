@@ -1,0 +1,7 @@
+- alias: hasura
+  config:
+    configmap: controller-conf
+    namespace: annoy41-hasura
+  data: null
+  kubeContext: annoy41
+  name: annoy41

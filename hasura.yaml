@@ -1,0 +1,7 @@
+description: This app represents WhatApp messaging mobile app clone. It is developed
+  using React native and Hasura API's.
+keywords: getting-started, react-native, native, react, mobile, android, ios, node,
+  nodejs
+media: {}
+name: WhatsApp
+platformVersion: v0.15.3
