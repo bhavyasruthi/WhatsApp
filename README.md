@@ -3,9 +3,9 @@
 WhatsApp clone is created using React Native framework. It connects to the PostgreSQL database using Hasura Data API's. It demonstrates a full-fledged mobile app that works exactly like WhatsApp Android version. In this app, the frontend is developed using React and backend part is developed using Hasura API's which can be easily replaced by Node.js endpoints.  
 Screenshots of WhatsApp app - 
 <p align="center">
-<img  width="285" height="550" src="https://s9.postimg.org/4gwzdjh8v/chats_Tab.png">
-<img  width="285" height="550" src="https://s9.postimg.org/4todjjk1b/status_Tab.png">
-<img  width="285" height="550" src="https://s9.postimg.org/5vyk262vj/calls_Tab.png">
+<img  width="285" height="550" src="./images/chatsTab.png">
+<img  width="285" height="550" src="./images/statusTab.png">
+<img  width="285" height="550" src="./images/callsTab.png">
 </p>
 ## Chats Screen:
 
